@@ -1,0 +1,48 @@
+
+String sampleJson = "{\n" +
+  "\"CategoryList\": [{\n" +
+  "    \"MainCategory\": {\n" +
+  "        \"Attribute_Name\": \"Club Sports\",\n" +
+  "        \"Attribute_Value\": \"125\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    },\n" +
+  "    \"SubCategory\": [{\n" +
+  "        \"Attribute_Name\": \"126\",\n" +
+  "        \"Attribute_Value\": \"Basketball\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }, {\n" +
+  "        \"Attribute_Name\": \"127\",\n" +
+  "        \"Attribute_Value\": \"Football\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }, {\n" +
+  "        \"Attribute_Name\": \"128\",\n" +
+  "        \"Attribute_Value\": \"Handball\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }]\n" +
+  "}, {\n" +
+  "    \"MainCategory\": {\n" +
+  "        \"Attribute_Name\": \"Programming\",\n" +
+  "        \"Attribute_Value\": \"133\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    },\n" +
+  "    \"SubCategory\": [{\n" +
+  "        \"Attribute_Name\": \"134\",\n" +
+  "        \"Attribute_Value\": \"Terrapin Hackers\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }, {\n" +
+  "        \"Attribute_Name\": \"135\",\n" +
+  "        \"Attribute_Value\": \"Bitcamp\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }, {\n" +
+  "        \"Attribute_Name\": \"138\",\n" +
+  "        \"Attribute_Value\": \"XR Club\",\n" +
+  "        \"StockKeepingunit\": null\n" +
+  "    }]\n" +
+  "\n" +
+  "}],\n" +
+  "\"status\": {\n" +
+  "    \"message\": \"Success\",\n" +
+  "    \"result\": 1\n" +
+  "}}";
+
+}
